@@ -40,9 +40,7 @@
  @media screen and (max-width : 1200px) {
      .column .column1 .column2 .column3 {
         width: 400px
-
-        }
-     
+        }    
  }
  @media screen and (max-width: 900px) {
     .column .column1 .column2 .column3 {
