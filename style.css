@@ -1,0 +1,49 @@
+
+
+        .wrapper {
+
+            width: 933px;
+
+            height: 800px;
+
+            background-color: rgb(10, 10, 10);
+
+        }
+
+        .column {  
+
+            display:inline-block;
+
+            height: 100%;
+
+            width: 300px;
+        }
+
+        .column1 {
+
+            background-color: green;
+
+        }
+
+        .column2 {
+
+            background-color: white;
+
+        }
+
+        .column3 {
+
+            background-color: orange;
+
+        }
+
+ @media screen and (max-width : 600px) {
+     aside {
+         position: absolute;
+
+         z-index: 13;
+         left: 10px;
+
+        }
+     
+ }
